@@ -1,0 +1,121 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+R001,Urban Darbar,Noida,Mughlai,3.8
+R002,Sagar Dhaba,Mumbai,Chinese,4.0
+R003,Royal Treats,Delhi,Chinese,3.8
+R004,Golden Express,Pune,Biryani,3.9
+R005,Mughal Station,Gurugram,South Indian,3.7
+R006,Sagar House,Delhi,Pizza,4.1
+R007,Urban Factory,Bengaluru,Cafe,4.6
+R008,Green Kitchen,Bengaluru,Rolls & Wraps,4.5
+R009,Burger Treats,Pune,North Indian,4.4
+R010,Spice Junction,Delhi,Healthy,4.3
+R011,Pizza Dhaba,Delhi,Cafe,3.9
+R012,Spice Darbar,Pune,Mughlai,3.8
+R013,Wok Darbar,Gurugram,Healthy,3.9
+R014,Dosa Junction,Bengaluru,Chinese,4.0
+R015,Punjabi Darbar,Delhi,Cafe,3.5
+R016,Burger Bowl,Chennai,Burgers,4.7
+R017,Green Grill,Noida,Mughlai,3.5
+R018,Biryani Darbar,Delhi,Street Food,3.7
+R019,Tandoori Hub,Gurugram,Desserts,4.4
+R020,Momo Point,Chennai,Chinese,4.4
+R021,Bombay Bowl,Gurugram,Chinese,4.0
+R022,Mughal Darbar,Mumbai,Pizza,4.0
+R023,Urban Corner,Mumbai,Biryani,3.7
+R024,Cafe Hub,Delhi,Street Food,4.1
+R025,Punjabi House,Mumbai,South Indian,3.9
+R026,Pizza Bowl,Noida,Desserts,3.9
+R027,Chaap Hub,Mumbai,Biryani,3.9
+R028,Wok Junction,Noida,Street Food,4.3
+R029,Pizza Treats,Chennai,Healthy,4.1
+R030,Green Junction,Noida,Burgers,4.1
+R031,Cafe Grill,Delhi,Cafe,4.0
+R032,Mughal Hub,Delhi,Chinese,4.2
+R033,Punjabi Factory,Noida,Cafe,4.5
+R034,Green Express,Pune,Burgers,3.6
+R035,Delhi Bowl,Hyderabad,Cafe,3.8
+R036,Mughal Factory,Mumbai,Cafe,3.8
+R037,Spice Express,Gurugram,South Indian,4.7
+R038,Bombay House,Hyderabad,Rolls & Wraps,4.5
+R039,Spice Bistro,Noida,Healthy,4.3
+R040,Bombay Bistro,Gurugram,North Indian,4.1
+R041,Golden Factory,Mumbai,Cafe,4.3
+R042,Chaap Kitchen,Hyderabad,Biryani,3.3
+R043,Tandoori Point,Delhi,Burgers,3.9
+R044,Momo Bowl,Delhi,Mughlai,4.3
+R045,Punjabi Treats,Hyderabad,Rolls & Wraps,3.4
+R046,Green Factory,Delhi,Burgers,4.8
+R047,Chaap Express,Chennai,Street Food,4.5
+R048,Burger Factory,Gurugram,Rolls & Wraps,4.2
+R049,Pizza Bistro,Mumbai,Biryani,3.8
+R050,Wok Point,Chennai,Pizza,4.3
+R051,Desi Bowl,Bengaluru,Burgers,4.0
+R052,Sagar Station,Pune,Rolls & Wraps,3.8
+R053,Tandoori Bistro,Bengaluru,Desserts,4.5
+R054,Chaap Treats,Gurugram,Chinese,3.8
+R055,Wok Bowl,Delhi,Street Food,4.2
+R056,Punjabi Point,Delhi,Mughlai,3.8
+R057,Sagar Bowl,Gurugram,South Indian,4.1
+R058,Bombay Point,Gurugram,Healthy,4.5
+R059,Biryani Dhaba,Gurugram,South Indian,3.9
+R060,Punjabi Junction,Bengaluru,Chinese,3.1
+R061,Golden Corner,Bengaluru,Street Food,4.0
+R062,Desi Grill,Chennai,Burgers,3.8
+R063,Royal Station,Bengaluru,Healthy,4.1
+R064,Golden Station,Pune,Desserts,4.3
+R065,Wok Station,Delhi,Pizza,4.1
+R066,Tandoori Station,Chennai,Pizza,4.0
+R067,Sagar Factory,Mumbai,Chinese,4.4
+R068,Dosa House,Delhi,South Indian,3.8
+R069,Dosa Dhaba,Gurugram,Chinese,3.2
+R070,Burger Grill,Gurugram,Healthy,4.3
+R071,Golden Bistro,Hyderabad,Desserts,4.4
+R072,Mughal Express,Delhi,Healthy,3.4
+R073,Green Darbar,Gurugram,Biryani,3.1
+R074,Chaap Point,Noida,Pizza,4.6
+R075,Wok Bistro,Bengaluru,North Indian,3.7
+R076,Cafe Bowl,Gurugram,Healthy,3.5
+R077,Wok Kitchen,Noida,Mughlai,4.6
+R078,Tandoori Dhaba,Pune,Pizza,3.9
+R079,Biryani Point,Chennai,Street Food,3.6
+R080,Delhi Express,Noida,Mughlai,4.5
+R081,Sagar Grill,Bengaluru,Biryani,4.3
+R082,Delhi Treats,Hyderabad,Mughlai,4.0
+R083,Cafe Junction,Pune,South Indian,3.4
+R084,Mughal Point,Mumbai,Chinese,3.6
+R085,Bombay Darbar,Delhi,Mughlai,4.0
+R086,Royal Darbar,Delhi,Desserts,4.0
+R087,Royal Factory,Noida,Pizza,4.3
+R088,Chaap House,Hyderabad,Rolls & Wraps,3.7
+R089,Urban Hub,Noida,Rolls & Wraps,3.4
+R090,Urban Station,Noida,Pizza,3.9
+R091,Momo Express,Chennai,Desserts,4.0
+R092,Chaap Corner,Delhi,Healthy,4.5
+R093,Green Dhaba,Hyderabad,South Indian,3.6
+R094,Sagar Corner,Mumbai,Rolls & Wraps,4.7
+R095,Spice Grill,Delhi,Pizza,4.0
+R096,Dosa Express,Delhi,Biryani,4.6
+R097,Momo Bistro,Bengaluru,North Indian,3.7
+R098,Urban Junction,Mumbai,Street Food,4.1
+R099,Royal Point,Bengaluru,Desserts,4.0
+R100,Sagar Point,Bengaluru,North Indian,3.5
+R101,Bombay Express,Mumbai,Healthy,4.4
+R102,Biryani House,Pune,Healthy,4.0
+R103,Momo House,Gurugram,Mughlai,4.6
+R104,Golden Dhaba,Bengaluru,Mughlai,4.0
+R105,Cafe Dhaba,Bengaluru,Mughlai,3.8
+R106,Momo Corner,Delhi,Desserts,3.6
+R107,Sagar Darbar,Gurugram,Biryani,3.8
+R108,Dosa Station,Delhi,Desserts,4.7
+R109,Green Corner,Gurugram,Biryani,3.8
+R110,Dosa Treats,Noida,Mughlai,4.3
+R111,Desi Hub,Gurugram,Healthy,4.1
+R112,Urban Point,Hyderabad,Cafe,4.3
+R113,Burger House,Chennai,North Indian,3.7
+R114,Tandoori Bowl,Chennai,Street Food,4.5
+R115,Desi Corner,Pune,Mughlai,3.8
+R116,Wok Corner,Noida,Healthy,3.9
+R117,Pizza Express,Mumbai,Street Food,4.0
+R118,Punjabi Grill,Hyderabad,Biryani,3.9
+R119,Momo Hub,Mumbai,Biryani,4.3
+R120,Spice House,Mumbai,Cafe,4.1
